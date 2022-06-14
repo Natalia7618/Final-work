@@ -51,7 +51,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="19" value="&lt;font style=&quot;font-size: 14px&quot;&gt;arraySource[i].Length &amp;lt;= 3&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+                <mxCell id="19" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;Element Length of arraySource&lt;br&gt;&amp;nbsp;&amp;lt;= 3&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
                     <mxGeometry x="318" y="440" width="192" height="110" as="geometry"/>
                 </mxCell>
                 <mxCell id="20" value="resLength++" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
@@ -100,7 +100,7 @@
                 <mxCell id="41" value="" style="edgeStyle=none;html=1;fontSize=14;" edge="1" parent="1" source="36" target="40">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="36" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;string[ ] res = new string[resLength];&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp; &amp;nbsp; int k = 0&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="36" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Create new array and counter&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;string[ ] res = new string[resLength];&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp; &amp;nbsp; int k = 0&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="280" y="950" width="260" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="38" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
@@ -135,7 +135,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="42" value="&lt;font style=&quot;font-size: 14px&quot;&gt;arraySource[i].Length &amp;lt;= 3&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="42" value="&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Element Length of arraySource&lt;/span&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;nbsp;&amp;lt;= 3&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="318" y="1180" width="191" height="110" as="geometry"/>
                 </mxCell>
                 <mxCell id="47" value="" style="edgeStyle=none;html=1;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="44" target="40">
