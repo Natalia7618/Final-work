@@ -1,0 +1,15 @@
+D:\GeekBrains_Обучение\I четверть. Базовый блок\Final work\bin\Debug\net6.0\Final work.exe
+D:\GeekBrains_Обучение\I четверть. Базовый блок\Final work\bin\Debug\net6.0\Final work.deps.json
+D:\GeekBrains_Обучение\I четверть. Базовый блок\Final work\bin\Debug\net6.0\Final work.runtimeconfig.json
+D:\GeekBrains_Обучение\I четверть. Базовый блок\Final work\bin\Debug\net6.0\Final work.dll
+D:\GeekBrains_Обучение\I четверть. Базовый блок\Final work\bin\Debug\net6.0\Final work.pdb
+D:\GeekBrains_Обучение\I четверть. Базовый блок\Final work\obj\Debug\net6.0\Final work.csproj.AssemblyReference.cache
+D:\GeekBrains_Обучение\I четверть. Базовый блок\Final work\obj\Debug\net6.0\Final work.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains_Обучение\I четверть. Базовый блок\Final work\obj\Debug\net6.0\Final work.AssemblyInfoInputs.cache
+D:\GeekBrains_Обучение\I четверть. Базовый блок\Final work\obj\Debug\net6.0\Final work.AssemblyInfo.cs
+D:\GeekBrains_Обучение\I четверть. Базовый блок\Final work\obj\Debug\net6.0\Final work.csproj.CoreCompileInputs.cache
+D:\GeekBrains_Обучение\I четверть. Базовый блок\Final work\obj\Debug\net6.0\Final work.dll
+D:\GeekBrains_Обучение\I четверть. Базовый блок\Final work\obj\Debug\net6.0\refint\Final work.dll
+D:\GeekBrains_Обучение\I четверть. Базовый блок\Final work\obj\Debug\net6.0\Final work.pdb
+D:\GeekBrains_Обучение\I четверть. Базовый блок\Final work\obj\Debug\net6.0\Final work.genruntimeconfig.cache
+D:\GeekBrains_Обучение\I четверть. Базовый блок\Final work\obj\Debug\net6.0\ref\Final work.dll
